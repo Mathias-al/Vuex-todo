@@ -1,0 +1,15 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 7617ed1..d946f35 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -23,3 +23,9 @@[m [mnpm run lint[m
+ ### Customize configuration[m
+ See [Configuration Reference](https://cli.vuejs.org/config/).[m
+ ![alt text](./src/assets/home.png)[m
+[32m+[m[32m # 測試[m
+[32m+[m[32m ---[m
+[32m+[m[32m - [X] test[m
+[32m+[m[32m - [X] test[m
+[32m+[m[32m - [X] test[m
+[32m+[m[32m - [X] test[m
+\ No newline at end of file[m

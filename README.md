@@ -23,3 +23,10 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ![alt text](./src/assets/home.png)
+ # 測試
+ ---
+ - [X] test
+ - [X] test
+ - [X] test
+ - [X] test
+ - [X] test branch 新增的
