@@ -22,4 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-![alt text](./src/assets/home.png)
+![alt text](https://upload.cc/i1/2021/04/14/iBVFM5.png)
