@@ -42,7 +42,9 @@ export default {
       },
    } ,
    
-   computed: mapGetters(['allTodos']),
+   computed: {
+       ...mapGetters(['allTodos']),
+       },
    
    created(){
        this.fetchTodos();
